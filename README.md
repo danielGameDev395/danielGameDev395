@@ -1,16 +1,13 @@
-## Hi there 👋
+# Daniel | Lightning Dev
 
-<!--
-**danielGameDev395/danielGameDev395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Indie Game Dev & Fullstack Apprentice
+- 📚 Currently studying Python and GameMaker Language
+- 🎮 Developing games for hobby!
+- 🏆 Sharing my projects and experiences
+- 📈 Always learning and leveling up!
+---------------------
+<div>
+  <a href=https://lightning-gamedev.itch.io>
+    <img src=https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white alt="Check my itch.io!y">
+  </a>
+</div>
