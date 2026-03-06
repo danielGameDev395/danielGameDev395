@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width=40 height=40/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width=40 height=40/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width=40 height=40/>
-  <img src="https://private-user-images.githubusercontent.com/167682424/519677089-e416f30d-f958-4ec2-bd91-43cb1ac14041.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE2Mzg5MjQsIm5iZiI6MTc3MTYzODYyNCwicGF0aCI6Ii8xNjc2ODI0MjQvNTE5Njc3MDg5LWU0MTZmMzBkLWY5NTgtNGVjMi1iZDkxLTQzY2IxYWMxNDA0MS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIyMVQwMTUwMjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MzhlZDhmYzIxYzc5NzZlOTQwNjliOTg5MGQ0ZjYzNWRmNzFmZDViMWYzNTQ1ZGNiN2UxOGI4MmI1MDRjNTYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iZ6P4jbF7OawPlEBGF6IfVsuPz4VKmQ_-G1Rg1sinOU" width=40 height=40/>
+  <img src="https://simpleicons.org/icons/gamemaker.svg" width=40 height=40/>
 </div>
 
 ---------------------
