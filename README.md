@@ -22,7 +22,7 @@
   <a href=https://lightning-gamedev.itch.io>
     <img src=https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white alt="Check my itch.io!">
   </a>
-  <a href=https://www.bandlab.com/tornado157>
+  <a href=https://www.bandlab.com/lightning_dev>
     <img src=https://img.shields.io/badge/BandLab-00D564?style=for-the-badge&logo=bandlab&logoColor=white alt="Check my BandLab!">
   </a>
 </div>
